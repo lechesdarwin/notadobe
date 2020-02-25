@@ -1,0 +1,39 @@
+{
+  "name": "notadobe",
+  "version": "0.0.1",
+  "description": "Utiliza tus habilidades de desarrollador para crear contenido sin necesidad de adobe some some some",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lechesdarwin/notadobe.git"
+  },
+  "keywords": [
+    "not",
+    "adobe",
+    "cntenido"
+  ],
+  "author": "lechesdarwin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lechesdarwin/notadobe/issues"
+  },
+  "homepage": "https://github.com/lechesdarwin/notadobe#readme",
+  "dependencies": {
+    "html2canvas": "^1.0.0-rc.5",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.22",
+    "@types/react-dom": "^16.9.5",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6",
+    "babel-preset-env": "^1.7.0",
+    "source-map-loader": "^0.2.4",
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.8.2"
+  }
+}
